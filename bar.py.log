@@ -1,0 +1,232 @@
+DEBUG:root:received "{"command":"register" "date" "1677952745.499742" "name" "Bar"}
+DEBUG:root:received "{"command":"register" "date" "1677952967.971985" "name" "Bar"}
+DEBUG:root:received "{"command":"register" "date" "1677953090.312647" "name" "Bar"}
+DEBUG:root:received "{"command":"register" "date" "1677953306.015673" "name" "Bar"}
+DEBUG:root:received "{"command":"register" "date" "1677953591.920454" "name" "Bar"}
+DEBUG:root:received "{"command":"register" "date" "1677954057.103648" "name" "Bar"}
+DEBUG:root:received "{"command":"register" "date" "1677954127.216259" "name" "Bar"}
+DEBUG:root:received "{"command":"register" "date" "1678028265.178386" "name" "Bar"}
+DEBUG:root:received "{"command":"register" "date" "1678029655.80639" "name" "Bar"}
+DEBUG:root:received "{"command":"register" "name" "Bar"}
+DEBUG:root:received "{"command":"register" "user" "Bar"}
+DEBUG:root:received "{ "command": "register", "user": "Bar"}
+DEBUG:root:received "{ "command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "message", "message": "Olá Mundo", "ts": 1678122233}
+DEBUG:root:received "{"command": "message", "message": "Hello World", "ts": 1678122233}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "message", "message": "Olá Mundo", "ts": 1678122321}
+DEBUG:root:received "{"command": "message", "message": "Hello World", "ts": 1678122321}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "message", "message": "Olá Mundo", "ts": 1678122392}
+DEBUG:root:received "{"command": "message", "message": "Hello World", "ts": 1678122392}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "message", "message": "Olá Mundo", "ts": 1678122462}
+DEBUG:root:received "{"command": "message", "message": "Hello World", "ts": 1678122462}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "message", "message": "Olá Mundo", "ts": 1678122538}
+DEBUG:root:received "{"command": "message", "message": "Hello World", "ts": 1678122538}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "message", "message": "Olá Mundo", "ts": 1678122608}
+DEBUG:root:received "{"command": "message", "message": "Hello World", "ts": 1678122608}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "message", "message": "Olá Mundo", "ts": 1678122689}
+DEBUG:root:received "{"command": "message", "message": "Hello World", "ts": 1678122689}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "message", "message": "Olá Mundo", "ts": 1678123417}
+DEBUG:root:received "{"command": "message", "message": "Hello World", "ts": 1678123417}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "message", "message": "Olá Mundo", "ts": 1678123560}
+DEBUG:root:received "{"command": "message", "message": "Hello World", "ts": 1678123560}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "message", "message": "Olá Mundo", "ts": 1678123634}
+DEBUG:root:received "{"command": "message", "message": "Hello World", "ts": 1678123634}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "message", "message": "Olá Mundo", "ts": 1678123728}
+DEBUG:root:received "{"command": "message", "message": "Hello World", "ts": 1678123729}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "message", "message": "Olá Mundo", "ts": 1678123795}
+DEBUG:root:received "{"command": "message", "message": "Hello World", "ts": 1678123795}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "message", "message": "Olá Mundo", "ts": 1678124319}
+DEBUG:root:received "{"command": "message", "message": "Hello World", "ts": 1678124319}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "message", "message": "Olá Mundo", "ts": 1678124632}
+DEBUG:root:received "{"command": "message", "message": "Hello World", "ts": 1678124632}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "message", "message": "Olá Mundo", "ts": 1678124724}
+DEBUG:root:received "{"command": "message", "message": "Hello World", "ts": 1678124724}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "message", "message": "Olá Mundo", "ts": 1678124824}
+DEBUG:root:received "{"command": "message", "message": "Hello World", "ts": 1678124824}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "message", "message": "Olá Mundo", "ts": 1678124978}
+DEBUG:root:received "{"command": "message", "message": "Hello World", "ts": 1678124978}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "message", "message": "Olá Mundo", "ts": 1678127536}
+DEBUG:root:received "{"command": "message", "message": "Hello World", "ts": 1678127537}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "message", "message": "cd", "ts": 1678188064}
+DEBUG:root:received "{"command": "message", "message": "asad", "ts": 1678188079}
+DEBUG:root:received "{"command": "message", "message": "asddassd", "ts": 1678188081}
+DEBUG:root:received "{"command": "message", "message": "asdad", "ts": 1678188082}
+DEBUG:root:received "{"command": "message", "message": "asd", "ts": 1678188082}
+DEBUG:root:received "{"command": "message", "message": "asd", "ts": 1678188083}
+DEBUG:root:received "{"command": "message", "message": "asd", "ts": 1678188083}
+DEBUG:root:received "{"command": "message", "message": "asd", "ts": 1678188083}
+DEBUG:root:received "{"command": "message", "message": "exit", "ts": 1678188094}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "message", "message": "Olá Mundo", "ts": 1678188303}
+DEBUG:root:received "{"command": "message", "message": "Hello World", "ts": 1678188303}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "join", "channel": "cd"}
+DEBUG:root:received "{"command": "message", "message": "ola", "channel": "1678188948", "ts": 1678188948}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "join", "channel": "cd"}
+DEBUG:root:received "{"command": "message", "message": "ola", "channel": "1678189122", "ts": 1678189122}
+DEBUG:root:received "{"command": "message", "message": "hello", "channel": "1678189127", "ts": 1678189127}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "message", "message": "join aed", "ts": 1678189288}
+DEBUG:root:received "{"command": "join", "channel": "aed"}
+DEBUG:root:received "{"command": "message", "message": "ahhhhh", "channel": "1678189308", "ts": 1678189308}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "join", "channel": "cd"}
+DEBUG:root:received "{"command": "message", "message": "ola", "channel": "1678189439", "ts": 1678189439}
+DEBUG:root:received "{"command": "message", "message": "adeus", "channel": "1678189442", "ts": 1678189442}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "message", "message": "ola", "ts": 1678189952}
+DEBUG:root:received "{"command": "message", "message": "adeus", "ts": 1678189956}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "message", "message": "ola", "ts": 1678190068}
+DEBUG:root:received "{"command": "message", "message": "adeus", "ts": 1678190071}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "message", "message": "ola", "ts": 1678190177}
+DEBUG:root:received "{"command": "message", "message": "ola", "ts": 1678190180}
+DEBUG:root:received "{"command": "message", "message": "adeus", "ts": 1678190181}
+DEBUG:root:received "{"command": "message", "message": "adeus", "ts": 1678190186}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "message", "message": "ola", "ts": 1678190903}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "message", "message": "ola", "ts": 1678190955}
+DEBUG:root:received "{"command": "message", "message": "adeus", "ts": 1678190974}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "message", "message": "Olá Mundo", "ts": 1678191018}
+DEBUG:root:received "{"command": "message", "message": "Hello World", "ts": 1678191018}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "message", "message": "Olá Mundo", "ts": 1678191020}
+DEBUG:root:received "{"command": "message", "message": "Hello World", "ts": 1678191020}
+DEBUG:root:received "{"command": "message", "message": "How are you?", "ts": 1678191020}
+DEBUG:root:received "{"command": "message", "message": "Are you new around here?", "ts": 1678191020}
+DEBUG:root:received "{"command": "message", "message": "Hope you enjoy your stay", "ts": 1678191020}
+DEBUG:root:received "{"command": "message", "message": "You are awesome!", "ts": 1678191020}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "message", "message": "Hello!", "ts": 1678191023}
+DEBUG:root:received "{"command": "message", "message": "Welcome aboard", "ts": 1678191023}
+DEBUG:root:received "{"command": "message", "message": "Who are you?", "ts": 1678191023}
+DEBUG:root:received "{"command": "message", "message": "I'm Joe", "ts": 1678191023}
+DEBUG:root:received "{"command": "message", "message": "Nice to meet you Joe", "ts": 1678191023}
+DEBUG:root:received "{"command": "message", "message": "Cya around", "ts": 1678191023}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "message", "message": "Hello!", "ts": 1678191025}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "join", "channel": "#c2"}
+DEBUG:root:received "{"command": "message", "message": "I've come to talk with you again", "channel": "1678191030", "ts": 1678191030}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "message", "message": "Olá Mundo", "ts": 1678191191}
+DEBUG:root:received "{"command": "message", "message": "Hello World", "ts": 1678191191}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "message", "message": "Olá Mundo", "ts": 1678191193}
+DEBUG:root:received "{"command": "message", "message": "Hello World", "ts": 1678191193}
+DEBUG:root:received "{"command": "message", "message": "How are you?", "ts": 1678191193}
+DEBUG:root:received "{"command": "message", "message": "Are you new around here?", "ts": 1678191193}
+DEBUG:root:received "{"command": "message", "message": "Hope you enjoy your stay", "ts": 1678191193}
+DEBUG:root:received "{"command": "message", "message": "You are awesome!", "ts": 1678191193}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "message", "message": "Hello!", "ts": 1678191196}
+DEBUG:root:received "{"command": "message", "message": "Welcome aboard", "ts": 1678191196}
+DEBUG:root:received "{"command": "message", "message": "Who are you?", "ts": 1678191196}
+DEBUG:root:received "{"command": "message", "message": "I'm Joe", "ts": 1678191196}
+DEBUG:root:received "{"command": "message", "message": "Nice to meet you Joe", "ts": 1678191196}
+DEBUG:root:received "{"command": "message", "message": "Cya around", "ts": 1678191196}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "message", "message": "Hello!", "ts": 1678191198}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "join", "channel": "#c2"}
+DEBUG:root:received "{"command": "message", "message": "I've come to talk with you again", "channel": "1678191203", "ts": 1678191203}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "message", "message": "Olá Mundo", "ts": 1678192392}
+DEBUG:root:received "{"command": "message", "message": "Hello World", "ts": 1678192392}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "message", "message": "Olá Mundo", "ts": 1678192394}
+DEBUG:root:received "{"command": "message", "message": "Hello World", "ts": 1678192394}
+DEBUG:root:received "{"command": "message", "message": "How are you?", "ts": 1678192394}
+DEBUG:root:received "{"command": "message", "message": "Are you new around here?", "ts": 1678192394}
+DEBUG:root:received "{"command": "message", "message": "Hope you enjoy your stay", "ts": 1678192394}
+DEBUG:root:received "{"command": "message", "message": "You are awesome!", "ts": 1678192394}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "message", "message": "Hello!", "ts": 1678192397}
+DEBUG:root:received "{"command": "message", "message": "Welcome aboard", "ts": 1678192397}
+DEBUG:root:received "{"command": "message", "message": "Who are you?", "ts": 1678192397}
+DEBUG:root:received "{"command": "message", "message": "I'm Joe", "ts": 1678192397}
+DEBUG:root:received "{"command": "message", "message": "Nice to meet you Joe", "ts": 1678192397}
+DEBUG:root:received "{"command": "message", "message": "Cya around", "ts": 1678192397}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "message", "message": "Hello!", "ts": 1678192399}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "join", "channel": "#c2"}
+DEBUG:root:received "{"command": "message", "message": "I've come to talk with you again", "channel": "1678192404", "ts": 1678192404}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "message", "message": "Olá Mundo", "ts": 1678192679}
+DEBUG:root:received "{"command": "message", "message": "Hello World", "ts": 1678192679}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "message", "message": "Olá Mundo", "ts": 1678192682}
+DEBUG:root:received "{"command": "message", "message": "Hello World", "ts": 1678192682}
+DEBUG:root:received "{"command": "message", "message": "How are you?", "ts": 1678192682}
+DEBUG:root:received "{"command": "message", "message": "Are you new around here?", "ts": 1678192682}
+DEBUG:root:received "{"command": "message", "message": "Hope you enjoy your stay", "ts": 1678192682}
+DEBUG:root:received "{"command": "message", "message": "You are awesome!", "ts": 1678192682}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "message", "message": "Hello!", "ts": 1678192684}
+DEBUG:root:received "{"command": "message", "message": "Welcome aboard", "ts": 1678192684}
+DEBUG:root:received "{"command": "message", "message": "Who are you?", "ts": 1678192684}
+DEBUG:root:received "{"command": "message", "message": "I'm Joe", "ts": 1678192684}
+DEBUG:root:received "{"command": "message", "message": "Nice to meet you Joe", "ts": 1678192684}
+DEBUG:root:received "{"command": "message", "message": "Cya around", "ts": 1678192685}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "message", "message": "Hello!", "ts": 1678192687}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "join", "channel": "#c2"}
+DEBUG:root:received "{"command": "message", "message": "I've come to talk with you again", "channel": "1678192692", "ts": 1678192692}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "message", "message": "Olá Mundo", "ts": 1678193470}
+DEBUG:root:received "{"command": "message", "message": "Hello World", "ts": 1678193470}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "message", "message": "Olá Mundo", "ts": 1678193472}
+DEBUG:root:received "{"command": "message", "message": "Hello World", "ts": 1678193472}
+DEBUG:root:received "{"command": "message", "message": "How are you?", "ts": 1678193472}
+DEBUG:root:received "{"command": "message", "message": "Are you new around here?", "ts": 1678193472}
+DEBUG:root:received "{"command": "message", "message": "Hope you enjoy your stay", "ts": 1678193472}
+DEBUG:root:received "{"command": "message", "message": "You are awesome!", "ts": 1678193473}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "message", "message": "Hello!", "ts": 1678193475}
+DEBUG:root:received "{"command": "message", "message": "Welcome aboard", "ts": 1678193475}
+DEBUG:root:received "{"command": "message", "message": "Who are you?", "ts": 1678193475}
+DEBUG:root:received "{"command": "message", "message": "I'm Joe", "ts": 1678193475}
+DEBUG:root:received "{"command": "message", "message": "Nice to meet you Joe", "ts": 1678193475}
+DEBUG:root:received "{"command": "message", "message": "Cya around", "ts": 1678193475}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "message", "message": "Hello!", "ts": 1678193478}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "join", "channel": "#c2"}
+DEBUG:root:received "{"command": "message", "message": "I've come to talk with you again", "channel": "1678193482", "ts": 1678193482}
+DEBUG:root:received "{"command": "register", "user": "Bar"}
+DEBUG:root:received "{"command": "join", "channel": "cd"}
+DEBUG:root:received "{"command": "message", "message": "ola cris", "channel": "cd", "ts": 1678836064}
+DEBUG:root:received "{"command": "message", "message": "ola camila", "channel": "cd", "ts": 1678836080}
